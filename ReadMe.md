@@ -1,5 +1,8 @@
 # Exercise Objectives
 
+## PREQUISITES
+1. You must be in ENABLED MODE
+
 ## Exercise 0
 1. Simply get Exercise0.bat to execute.
 
