@@ -2,12 +2,14 @@
 # Scenario 1
 
 1. Try to solidify Scenario1.txt
-* Why do you think this .TXT file is able to be solidified?
+* **sadmin so Scenario1.txt**
+ * Why do you think this .TXT file is able to be solidified?
 
 2. Try to make a change to Scenario1.txt using a NON-UPDATER
 * **echo test >> Scenario1.txt** should yield an Access Denied error
 
 3. Configure a SKIPLIST to allow modification of this SOLIDIFIED file by a NON-UPDATER process (e.g. cmd.exe)
+* Hint: which skiplist removes the default write protection of solidified files?
 
 You should:
 * a.) confirm Scenario1.txt is SOLIDIFIED
