@@ -16,6 +16,7 @@
     * What was the source of this execution deny?
 4. Resolve the second EXECUTION_DENY error
     * What was the source of this execution deny? How was it different than the first?
+    * Can you think of any other options which might be used to get around this block?
 
 
 # Scenarios
