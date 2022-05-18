@@ -11,7 +11,7 @@
 3. Configure a SKIPLIST to allow modification of this SOLIDIFIED file by a NON-UPDATER process (e.g. cmd.exe)
 * *hint: which skiplist configuration removes the default write protection of solidified files?*
 
-==For Scenario 1, you should:==
+<mark>For Scenario 1, you should:</mark>
 * a.) confirm Scenario1.txt is SOLIDIFIED
   * **sadmin ls -lax Scenario1.txt**
 * b.) successfully modify Scenario1.txt by a NON-UPDATER, despite being solidified
