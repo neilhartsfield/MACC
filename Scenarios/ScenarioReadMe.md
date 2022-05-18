@@ -18,6 +18,9 @@
   * `echo test >> Scenario1.txt` should no longer yield an Access Denied error
 
 
+
+
+
 # Scenario 2
 
 1. Create a NEW directory
