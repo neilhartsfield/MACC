@@ -14,3 +14,9 @@
 1. Get ExerciseX.bat to execute
 2. Resolve the first EXECUTION_DENY error
 3. Resolve the second EXECUTION_DENY error
+
+
+# Scenarios
+### See ReadMe file within the /Scenarios folder
+Scenario 1 - SKIPLIST configuration
+Scenario 2 - TRUSTED directory configuration with WRITE PROTECTION enabled
