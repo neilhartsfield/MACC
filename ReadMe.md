@@ -17,6 +17,6 @@
 
 
 # Scenarios
-### See ReadMe file within the /Scenarios folder
-Scenario 1 - SKIPLIST configuration
-Scenario 2 - TRUSTED directory configuration with WRITE PROTECTION enabled
+### Follow the steps within the readMe file inside the MACC/Scenarios folder
+* Scenario 1 - SKIPLIST configuration
+* Scenario 2 - TRUSTED directory configuration with WRITE PROTECTION enabled
