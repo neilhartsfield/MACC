@@ -11,7 +11,7 @@
 3. Configure a SKIPLIST to allow modification of this SOLIDIFIED file by a NON-UPDATER process (e.g. cmd.exe)
 * *hint: which skiplist configuration removes the default write protection of solidified files?*
 
-<mark>For Scenario 1, you should:</mark>
+### For Scenario 1, you should:
 * a.) confirm Scenario1.txt is SOLIDIFIED
   * **sadmin ls -lax Scenario1.txt**
 * b.) successfully modify Scenario1.txt by a NON-UPDATER, despite being solidified
@@ -32,7 +32,7 @@
 * You will need to use TWO different sadmin configurations; one for configuring the trusted directory, and one for ensuring files within that trusted directory CANNOT be modified, regardless of solidification status
   * *hint: think about how you might add write protection to a directory*
 
-==For Scenario 2, you should:==
+### For Scenario 2, you should:
 * a.) ensure that unso.bat is UNSOLIDIFIED (**sadmin ls -lax unso.bat**)
   * sadmin ls -lax output should show: **state=:"unso"** and **execution_allowed="Yes**
 * b.) confirm that unso.bat can be executed by a non-updater
