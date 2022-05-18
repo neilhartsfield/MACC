@@ -21,6 +21,6 @@
 3. Using SADMIN commands, configure C:\My as a TRUSTED directory which ALLOWS execution of unsolidified binaries (in this example, unso.bat) but DENIES modification on them.
 
 You should:
-a.) ensure that unso.bat is UNSOLIDIFIED (**sadmin ls -lax unso.bat**)
-b.) confirm that unso.bat can be executed by a non-updater
-c.) confirm that unso.bat cannot be modified (**echo test >> unso.bat** should result in an Access Denied error)
+* a.) ensure that unso.bat is UNSOLIDIFIED (**sadmin ls -lax unso.bat**)
+* b.) confirm that unso.bat can be executed by a non-updater
+* c.) confirm that unso.bat cannot be modified (**echo test >> unso.bat** should result in an Access Denied error)
