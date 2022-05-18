@@ -1,3 +1,3 @@
 @echo off
-dir
+echo Congratulations! You have successfully run the test file.
 pause
