@@ -2,7 +2,7 @@
 # Scenario 1
 
 1. Try to solidify Scenario1.txt
-* **sadmin so Scenario1.txt**
+`sadmin so Scenario1.txt`
   * Why do you think this .TXT file is able to be solidified?
 
 2. Try to make a change to Scenario1.txt using a NON-UPDATER
