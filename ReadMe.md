@@ -13,7 +13,9 @@
 ## ExerciseX
 1. Get ExerciseX.bat to execute
 2. Resolve the first EXECUTION_DENY error
-3. Resolve the second EXECUTION_DENY error
+    * What was the source of this execution deny?
+4. Resolve the second EXECUTION_DENY error
+    * What was the source of this execution deny? How was it different than the first?
 
 
 # Scenarios
