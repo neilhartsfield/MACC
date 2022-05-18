@@ -9,7 +9,7 @@
 * **echo test >> Scenario1.txt** should yield an Access Denied error
 
 3. Configure a SKIPLIST to allow modification of this SOLIDIFIED file by a NON-UPDATER process (e.g. cmd.exe)
-* Hint: which skiplist removes the default write protection of solidified files?
+* *hint: which skiplist configuration removes the default write protection of solidified files?*
 
 You should:
 * a.) confirm Scenario1.txt is SOLIDIFIED
